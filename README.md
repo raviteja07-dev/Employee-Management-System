@@ -1,17 +1,24 @@
-# Employee Management System
+# Java DSA Practice
 
-Java application developed for managing employee records using Core Java, JDBC, and MySQL.
+Repository containing Java solutions for Data Structures and Algorithms problems.
 
-## Features
-- Add Employee
-- Update Employee
-- Delete Employee
-- Search Employee
-- Department Management
+## Topics
 
-## Technologies Used
-- Core Java
-- JDBC
-- MySQL
-- Collections Framework
-- Exception Handling
+- Arrays
+- Strings
+- Collections
+- Searching
+- Sorting
+- Recursion
+- Linked Lists
+- Stacks
+- Queues
+- Hashing
+
+## Goal
+
+Solve 100+ DSA problems and document approaches.
+
+## Status
+
+In Progress.
